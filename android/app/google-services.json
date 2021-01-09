@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034286453660",
+    "project_id": "hackroll-1890b",
+    "storage_bucket": "hackroll-1890b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034286453660:android:343a50e01781ebfe366e59",
+        "android_client_info": {
+          "package_name": "com.hack_roll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034286453660-p9jvrn0uopqocv5t2ms0ik1jaeulivds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-j0nhPPRHudqC9-BJrucxkGG6qgG6zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034286453660-p9jvrn0uopqocv5t2ms0ik1jaeulivds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
