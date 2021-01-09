@@ -19,7 +19,7 @@ we have learned various aspects of app development and how to use a cloud databa
 ## What's next for chipchip
 implementing functionality, adding options for different games. making something that actually worked like how it does our minds! Hopefully, chipchip will become as big and good as some chipsmore!!
 
-### Links we referred to
+# Links we referred to
 
 ## Firebase setup
 [link] (https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#0)
